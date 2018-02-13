@@ -5,3 +5,10 @@ c:\users\matth\source\repos\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 0
 c:\users\matth\source\repos\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.csproj.CoreCompileInputs.cache
 c:\users\matth\source\repos\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.exe
 c:\users\matth\source\repos\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.pdb
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\bin\Debug\Ligipääsusüsteem 08.02.2018.exe.config
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\bin\Debug\Ligipääsusüsteem 08.02.2018.exe
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\bin\Debug\Ligipääsusüsteem 08.02.2018.pdb
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.exe
+C:\Users\matth\OneDrive\Dokumendid\GitHub\OfficePremissions\Ligipääsusüsteem 08.02.2018\Ligipääsusüsteem 08.02.2018\obj\Debug\Ligipääsusüsteem 08.02.2018.pdb

@@ -24,19 +24,22 @@ namespace Ligipääsusüsteem_08._02._2018
                 Console.WriteLine("2. Developer's Station");
                 Console.WriteLine("3. Data Processor's Station");
                 Console.WriteLine("4. Supervisor's Office");
+                Console.WriteLine("");
                 Action = Console.ReadLine();
                 //KITCHEN
                 if (Action == "1")
                 {
                     if (SecurityClearance > 0)
                     {
-                        Console.WriteLine("Yup");
+                        Console.WriteLine("");
+                        Console.WriteLine("You have access to the Kitchen");
                         Console.ReadLine();
                         Console.Clear();
                     }
                     else
                     {
-                        Console.WriteLine("Nope");
+                        Console.WriteLine("");
+                        Console.WriteLine("No entry. You don't have security clearance.");
                         Console.ReadLine();
                         Console.Clear();
                     }
@@ -46,13 +49,15 @@ namespace Ligipääsusüsteem_08._02._2018
                 {
                     if (SecurityClearance == 1 || SecurityClearance == 2 || SecurityClearance == 4 || SecurityClearance == 5)
                     {
-                        Console.WriteLine("Yup");
+                        Console.WriteLine("");
+                        Console.WriteLine("You have access to the Developer Station.");
                         Console.ReadLine();
                         Console.Clear();
                     }
                     else
                     {
-                        Console.WriteLine("Nope");
+                        Console.WriteLine("");
+                        Console.WriteLine("No entry. You don't have security clearance.");
                         Console.ReadLine();
                         Console.Clear();
                     }
@@ -62,13 +67,15 @@ namespace Ligipääsusüsteem_08._02._2018
                 {
                     if (SecurityClearance == 3 || SecurityClearance == 4 || SecurityClearance == 5 || SecurityClearance == 2)
                     {
-                        Console.WriteLine("Yup");
+                        Console.WriteLine("");
+                        Console.WriteLine("You have access to the Data Processor Station.");
                         Console.ReadLine();
                         Console.Clear();
                     }
                     else
                     {
-                        Console.WriteLine("Nope");
+                        Console.WriteLine("");
+                        Console.WriteLine("No entry. You don't have security clearance.");
                         Console.ReadLine();
                         Console.Clear();
                     }
@@ -78,13 +85,15 @@ namespace Ligipääsusüsteem_08._02._2018
                 {
                     if (SecurityClearance == 5 || SecurityClearance == 4 || SecurityClearance == 2)
                     {
-                        Console.WriteLine("Yup");
+                        Console.WriteLine("");
+                        Console.WriteLine("You have access to the Supervisor's office.");
                         Console.ReadLine();
                         Console.Clear();
                     }
                     else
                     {
-                        Console.WriteLine("Nope");
+                        Console.WriteLine("");
+                        Console.WriteLine("No entry. You don't have security clearance.");
                         Console.ReadLine();
                         Console.Clear();
                     }

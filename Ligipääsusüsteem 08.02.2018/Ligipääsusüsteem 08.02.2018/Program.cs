@@ -16,6 +16,9 @@ namespace Ligipääsusüsteem_08._02._2018
             int ID = 0;
             while (Enter == 1)
             {
+                Console.WriteLine("|-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-|");
+                Console.WriteLine("NOTE : YOU CHOOSE BY TYPING NUMBERS.");
+                Console.WriteLine("");
                 Console.WriteLine("Please enter your ID.");
                 Console.WriteLine("ID : 1 - Cleaner ; 2 - Developer ; 3 - Data Processor ; 4 - Supervisor");
 
@@ -40,7 +43,9 @@ namespace Ligipääsusüsteem_08._02._2018
                     Console.WriteLine("Please choose your Developer type :");
                     Console.WriteLine("1 - Junior Developer");
                     Console.WriteLine("2 - Senior Developer");
+                    Console.WriteLine("");
                     DeveloperChoose = Console.ReadLine();
+                    Console.Clear();
                     
                     if (DeveloperChoose == "1")
                     {
